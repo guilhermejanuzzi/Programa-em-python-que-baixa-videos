@@ -16,5 +16,4 @@ pip install -r requirements.txt
 2. Execute:
 python downloader.py
 3. Cole o link do vídeo ou playlist.
-## Autor
-Guilherme Januzzi
+
